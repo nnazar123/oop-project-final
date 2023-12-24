@@ -1,30 +1,91 @@
-# oop-project-final
-A tourism management system
-# Tourism Management System
+Tourism Management System
+Welcome to the Tourism Management System, a comprehensive application for managing tourism-related activities and information.
 
-## Project Overview
-The Tourism Management System is a software solution developed in C++ with a graphical user interface (GUI) to efficiently manage tourism-related activities. This project aims to streamline package management, tourist information, and customer support in the tourism industry.
+Table of Contents
+Features
+System Requirements
+Installation
+How to Use
+Controls
+Screenshots
+Contributing
+License
+Features
+Modules:
+Tourist Registration
+Package Management
+Booking System
+Billing and Invoicing
+Reporting
+User Roles:
+Administrator
+Travel Agent
+Customer
+Customization Options:
+Package Customization
+Billing Options
+User Preferences
+User Interaction:
+Intuitive User Interface
+In-App Guide
+Real-Time Updates
+Visual Appeal:
+Modern UI Design
+Responsive Layout
+System Requirements
+For Code Editing:
 
-## Features
-- **Add Package:**
-  - Allows users to input and store information about different tourism packages.
+Install Qt library
+To Run the Application:
 
-- **Add Tourist:**
-  - Enables the addition and management of tourist information.
+Minimum Display Resolution: 720p
+Installation
+Clone the repository:
 
-- **Find Package:**
-  - Provides a search functionality to locate and retrieve information about specific tourism packages.
+bash
+Copy code
+git clone https://github.com/yourusername/TourismManagementSystem.git
+Navigate to the project directory:
 
-- **Find Tourist:**
-  - Facilitates the search for tourist information within the system.
+bash
+Copy code
+cd TourismManagementSystem
+Build the application using your preferred C++ compiler.
 
-- **Customer Support:**
-  - Enhances customer service by providing support functionalities.
+Run the executable generated.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/tourism-management-system.git
+How to Use
+Launch the application executable.
+
+Choose your role (Administrator, Travel Agent, Customer) based on your login credentials.
+
+Explore the modules and functionalities available in the system.
+
+Customize settings and preferences as needed.
+
+Enjoy a seamless tourism management experience.
+
+Controls
+User Interactions:
+
+Mouse Clicks
+Keyboard Input
+Screenshots
+
+Dashboard
+
+
+Booking System
+
+...
+
+Contributing
+If you'd like to contribute to the project, please fork the repository and submit a pull request. Issues and feature requests are welcome too!
+
+License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code!
+
+
 ## Contributors
 - [M. Arbaaz Khan](https://github.com/arbaazkhan1234)
 - [Nayab Nazar](https://github.com/nnazar123)
